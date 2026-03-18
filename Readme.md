@@ -1,7 +1,5 @@
 # 🐶 Petlov
 
-![Petlov Cover](.github/cover.png)
-
 ## 🚀 Sobre o Projeto
 
 O **Petlov** é um aplicativo web desenvolvido para **cadastro de pontos de doação de pets**, criado exclusivamente para os alunos do **Curso Ninja do Cypress**, ministrado pelo **Fernando Papito**! 🥷💻
